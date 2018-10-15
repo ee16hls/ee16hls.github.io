@@ -1,9 +1,7 @@
 
-<HTML> 
-<TITLE>
-TEST
-</TITLE>
-<BODY>
- Hello World
-</BODY>
-</HTML>
+---
+title: TEST
+---
+
+
+Hello World 
