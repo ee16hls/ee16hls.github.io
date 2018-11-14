@@ -1,6 +1,7 @@
 
 ---
-title: Hannah Sherwood 
+layout: default
+title: Home
 ---
 
 
