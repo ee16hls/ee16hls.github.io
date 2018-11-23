@@ -1,2 +1,4 @@
 name: Hannah Sherwood 
 markdown: kramdown
+
+theme: jekyll-theme-slate
